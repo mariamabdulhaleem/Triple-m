@@ -1,10 +1,6 @@
 # Triple-m
 
-# Triple-m
-
 ##### Welcome to the Online Bookstore Web App. This project is a simple and elegant online bookstore designed using HTML and CSS. Explore a collection of books, add them to your favorites, and engage with various features to enhance your browsing experience.
- 
-![Capture](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/bd2ab327-0396-4049-bfb1-122d8bf14cb4)
 
  ## Features:
 - **Browse Books:** Discover a wide range of books available in different categories.
@@ -26,26 +22,29 @@
  https://mariamabdulhaleem.github.io/Triple-m/
 
 
-
 ## Screenshots
 
 
-### Browse books
-![books](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/c74a0a44-a341-45cf-a200-a7baf90ecf84)
-
-### Ask us
-![loggedin](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/f5443e79-0b7c-41a6-ab1d-2e8e2c100a75)
-
-### About
-![logged in](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/a5b0dff8-a35d-4ad7-a792-be30244f350b)
-
 ### Homepage
-![Home page](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/28e5b613-b9c4-4f55-a406-4927e0c5ac70)
+
 
 ### Login
-![log in](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/a24bee73-ff08-4085-809e-4b324023985e)
+
 
 ### Register
-![register](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/15c8e71e-c7aa-47ec-8ea4-13c79333e360)
+
+
+### Browse books
+![books](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/ea9157aa-8436-4f00-9508-8320e5bf500e)
+
+### Ask us
+![loggedin](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/8c23ddc0-5511-4a4a-a4bc-2c773ff305fc)
+
+![loggedin](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/e628522d-2dac-405c-8f9f-91048b33d53c)
+
+![loggedin](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/54f66f67-0c4b-4aa7-9151-66c344f6bf7a)
+
+### About
+![logged in](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/b1a4ebaa-eabc-46bd-acd0-0b73d4149824)
 
 📚
