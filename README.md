@@ -26,13 +26,13 @@
 
 
 ### Homepage
-
+![Home page](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/095a5e8b-21e4-428e-aa74-83b7541c7a14)
 
 ### Login
-
+![log in](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/26c89c63-df51-466f-8a35-9ac5d485d637)
 
 ### Register
-
+![register](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/b1713b4f-582f-4f1f-ba42-c496f0b7f554)
 
 ### Browse books
 ![books](https://github.com/mariamabdulhaleem/Triple-m/assets/92918294/ea9157aa-8436-4f00-9508-8320e5bf500e)
